@@ -1,13 +1,13 @@
-# python_codes
+# Automation Code
 The script allows the user to switch between two windows automatically.
 
 ## Run Environment:
     Linux
 
 ## Description:
-    Loops switching between the two open window in linux environment. The name and duration
-     of switch for both windows is configurable.
-    To exit the loop, PRESS 'ESC'.
+Loops switching between the two open window in linux environment. 
+The name and duration of switch for both windows is configurable.
+To exit the loop, PRESS 'ESC'.
 
 ## Dependencies:
     - pynput  # pip install pynput
